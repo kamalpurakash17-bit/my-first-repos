@@ -21,10 +21,6 @@ Workflow
 
 1. Create or clone a repository.
 2. Create a feature branch.
-3. Make changes and inspect them.
-4. Stage and commit changes.
-5. Push the branch to GitHub.
-6. Review and merge changes through a pull request when appropriate.
 
 Author
 
